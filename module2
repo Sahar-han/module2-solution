@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="view" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Module2-Solution</title>
+    <link rel="stylesheet" href="./main.css" />
+  </head>
+  <body>
+    <h1>Main Menu</h1>
+    <div class="container">
+      <section class="first">
+        <span><p class="title">Chicken</p></span>
+        <p>
+          delulu is the solulu.jdjf djfllne fhikf kfkf
+          jflffnkf fkfldn,cf/.fcfkmirbck ujdo,sndvbghppd;pflf
+        </p>
+      </section>
+      <section class="second">
+        <span><p class="title">Beef</p></span>
+        <p>
+          fjgkgl.lf'd/'fmfl.kmfkjb j k kdcmlfkp
+          fjdfjkdklfbodkm k lbflflfkgj jffk'
+          fjfkflcnbfl klm blofgkb kfmj;fblvmdkcspd;v
+        </p>
+      </section>
+
+      <section class="third">
+        <span><p class="title">Sushi</p></span>
+        <p>
+          dfcgbhjkbln  hjvk oiujhfgsdjv hyyjkl;sdlxciuvkdf
+          sdgfkvb;puh dfhyyikj,sledoo;kljkfjdgvb kis   
+        </p>
+      </section>
+    </div>
+    <script src="./index.js" type="module"></script>
+  </body>
+</html>
